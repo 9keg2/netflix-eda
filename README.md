@@ -78,7 +78,7 @@ README.md
 
 Yash Jaiswal
 
-📸 Instagram: https://instagram.com/9keg2
+📸 Instagram: https://instagram.com/foriinyash
 
 
 📺 YouTube: https://youtube.com/@foriinyash

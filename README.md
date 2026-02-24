@@ -14,9 +14,17 @@ Exploratory Data Analysis of Netflix Movies & TV Shows dataset to uncover trends
 This project analyzes:
 
 • 🎬 Movies vs TV Shows distribution
+
+
 • 🌍 Country-wise content production
+
+
 • 📈 Content growth over years
+
+
 • 🎭 Genre popularity
+
+
 • 📊 Real-world dataset cleaning & visualization
 
 
@@ -26,11 +34,23 @@ This project analyzes:
 🛠 Tech Stack
 
 Python
+
+
 Pandas
+
+
 NumPy
+
+
 Matplotlib
+
+
 Seaborn
+
+
 Jupyter Notebook
+
+
 
 
 
@@ -59,9 +79,19 @@ README.md
 Yash Jaiswal
 
 📸 Instagram: https://instagram.com/9keg2
+
+
 📺 YouTube: https://youtube.com/@foriinyash
+
+
 💼 LinkedIn: https://www.linkedin.com/in/yash-jaiswal-b024b9345/
+
+
 🐙 GitHub: https://github.com/9keg2
+
+
+
+
 
 ⭐ If you like this project
 
